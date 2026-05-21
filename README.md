@@ -2,7 +2,7 @@
 
 Pipeline completo de NLP para classificar mensagens SMS como spam ou legítimas (ham), comparando dois modelos clássicos de Machine Learning com métricas detalhadas.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luccasnn/detector_spam/blob/main/detector_spam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luccasnn/detector-spam/blob/main/detector_spam.ipynb)
 
 ## Como foi feito
 
